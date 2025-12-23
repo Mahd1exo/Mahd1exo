@@ -41,6 +41,39 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
 <br clear="right"/>
 <br />
 
+### 📡 Operator Credentials
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎓 Education</h3>
+        <strong>Conestoga College</strong><br>
+        Software Eng. Technology<br>
+        GPA: <code>4.0 / 4.0</code><br>
+        <em>Global Affairs Scholar</em>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔐 Security & SysAdmin</h3>
+        <strong>Certified Ethical Hacker (CEH)</strong><br>
+        <strong>LPIC-1 & LPIC-2</strong><br>
+        SANS SEC 504
+      </td>
+      <td align="center" width="33%">
+        <h3>📄 Documentation</h3>
+        <strong>Resume & CV</strong><br>
+        <em>Updated: 2025</em><br>
+        <br>
+        <a href="https://github.com/Mahd1exo/Mahd1exo/blob/main/Mehdi_Ebrahimzadeh_Resume.pdf">
+          <img src="https://img.shields.io/badge/View_PDF_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
 ---
 
 ### 💻 The High-Performance Stack
@@ -74,6 +107,28 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
 | **[Health Monitor](https://github.com/Mahd1exo/Health-Monitoring-System)** <br> *Deep Tech* | `Rust` `Python` `AI` | Real-time vital analysis using **Fuzzy Logic** and **OpenAI** integration. |
 
 <br />
+
+---
+
+### 📫 Connect Protocol
+
+<div align="center">
+  <p>Available for <b>Deep Tech</b> collaborations, <b>Distributed Systems</b> architecture, and <b>Security</b> consultations.</p>
+
+  <a href="mailto:Mehdi.ebr.work@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/Mehdi-ebr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mahd1exo">
+    <img src="https://img.shields.io/badge/Follow_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+  
+  <p><i>📍 Currently based in <b>Waterloo, Ontario</b></i></p>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahd1exo&style=for-the-badge&label=PROFILE+VIEWS&color=bd34fe" alt="Profile Views" />
