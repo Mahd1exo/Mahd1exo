@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F2FF&background=00000000&center=true&vCenter=true&width=1000&lines=System.Init(User+%3D%3E+%22Mehdi%22);Current+Status:+Co-Founder+%40+Oktav+(Velocity+Top+10);Achievement:+Global+Affairs+Scholar+(%2429k);Metrics:+4.0+GPA+%7C+High-Availability+Systems;Stack:+Go,+Rust,+C%23,+.NET,+Kubernetes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F2FF&background=00000000&center=true&vCenter=true&width=1000&lines=System.Init(User+%3D%3E+%22Mehdi%22);Current+Status:+Co-Founder+%40+Oktav+(Velocity+Top+10);Award:+Global+Affairs+Scholar+(%2429k);Metrics:+4.0+GPA+%7C+High-Availability+Systems;Stack:+Go,+Rust,+C%23,+.NET,+Kubernetes" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 <br />
 
-<img align="right" width="35%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" style="border-radius: 10px;" />
+<img align="right" width="32%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" style="border-radius: 10px;" />
 
 ### 🚀 Engineering High-Performance Reality
 
@@ -41,35 +41,12 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
 <br clear="right"/>
 <br />
 
-### 📡 Operator Credentials
+### 📄 Documentation
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <h3>🎓 Education</h3>
-        <strong>Conestoga College</strong><br>
-        Software Eng. Technology<br>
-        GPA: <code>4.0 / 4.0</code><br>
-        <em>Global Affairs Scholar</em>
-      </td>
-      <td align="center" width="33%">
-        <h3>🔐 Security & SysAdmin</h3>
-        <strong>Certified Ethical Hacker (CEH)</strong><br>
-        <strong>LPIC-1 & LPIC-2</strong><br>
-        SANS SEC 504
-      </td>
-      <td align="center" width="33%">
-        <h3>📄 Documentation</h3>
-        <strong>Resume & CV</strong><br>
-        <em>Updated: 2025</em><br>
-        <br>
-        <a href="https://github.com/Mahd1exo/Mahd1exo/blob/main/Mehdi_Ebrahimzadeh_Resume.pdf">
-          <img src="https://img.shields.io/badge/View_PDF_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Mahd1exo/Mahd1exo/blob/main/Mehdi_Ebrahimzadeh_Resume.pdf">
+    <img src="https://img.shields.io/badge/DOWNLOAD_FULL_RESUME_(PDF)-24243e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=bd34fe&labelColor=0d1117" height="45" />
+  </a>
 </div>
 
 <br />
@@ -79,7 +56,7 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
 ### 💻 The High-Performance Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,cs,dotnet,c,docker,kubernetes,aws,kafka,postgres,redis,nginx,git,linux&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,rust,cs,dotnet,c,docker,kubernetes,aws,kafka,postgres,redis,nginx,linux,git&perline=14&theme=dark" />
   </a>
 </div>
 
@@ -100,11 +77,34 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
 
 ### 🚀 Selected Deployments
 
-| **Project** | **Stack** | **Impact** |
-| :--- | :--- | :--- |
-| **[Oktav](https://github.com/Mahd1exo)** <br> *Co-Founder* | `.NET` `Go` `K8s` | Architected 24 microservices; reduced CI/CD times by **45%**. Velocity Top 10 Finalist. |
-| **[BioCheck AI](http://github.com/Mahd1exo/Health_System)** <br> *Privacy Eng* | `React` `Postgres` | Built a privacy-first pipeline normalizing medical results for clinician review. |
-| **[Health Monitor](https://github.com/Mahd1exo/Health-Monitoring-System)** <br> *Deep Tech* | `Rust` `Python` `AI` | Real-time vital analysis using **Fuzzy Logic** and **OpenAI** integration. |
+<div align="center">
+  <table width="100%" style="width:100%; border-collapse: separate; border-spacing: 0;">
+    <thead>
+      <tr>
+        <th width="20%">Project</th>
+        <th width="20%">Stack</th>
+        <th width="60%">Impact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/Mahd1exo"><strong>Oktav</strong></a><br><em>Co-Founder</em></td>
+        <td><code>.NET</code> <code>Go</code> <code>K8s</code></td>
+        <td>Architected 24 microservices; reduced CI/CD times by <strong>45%</strong>. Velocity Top 10 Finalist.</td>
+      </tr>
+      <tr>
+        <td><a href="http://github.com/Mahd1exo/Health_System"><strong>BioCheck AI</strong></a><br><em>Privacy Eng</em></td>
+        <td><code>React</code> <code>Postgres</code></td>
+        <td>Built a privacy-first pipeline normalizing medical results for clinician review.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Mahd1exo/Health-Monitoring-System"><strong>Health Monitor</strong></a><br><em>Deep Tech</em></td>
+        <td><code>Rust</code> <code>Python</code> <code>AI</code></td>
+        <td>Real-time vital analysis using <strong>Fuzzy Logic</strong> and <strong>OpenAI</strong> integration.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <br />
 
@@ -127,6 +127,7 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
     <img src="https://img.shields.io/badge/Follow_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" />
   </a>
   
+  <br /><br />
   <p><i>📍 Currently based in <b>Waterloo, Ontario</b></i></p>
 </div>
 
