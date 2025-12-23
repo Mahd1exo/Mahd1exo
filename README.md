@@ -9,6 +9,9 @@
 </div>
 
 <div align="center">
+  <a href="https://mahd1exo.github.io">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F2FF?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/Mehdi-ebr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -35,17 +38,22 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
 * 🏆 **Elite Scholar:** Recipient of the **Global Affairs Canada Scholarship ($29,000)**.
 * 🧠 **Innovator:** Building **Oktav** (Velocity Deep Tech Finalist) to redefine cloud orchestration.
 * ⚙️ **Core Focus:** Microservices, Distributed Consensus, and Low-Level Optimization (Rust/Go).
+* 🌐 **Portfolio:** Explore my work at **[mahd1exo.github.io](https://mahd1exo.github.io)**
 
 > *"I don't just write code; I engineer solutions that survive production."*
 
 <br clear="right"/>
 <br />
 
-### 📄 Documentation
+### 📄 Documentation & Showcase
 
 <div align="center">
+  <a href="https://mahd1exo.github.io">
+    <img src="https://img.shields.io/badge/🚀_INTERACTIVE_PORTFOLIO-00F2FF?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=bd34fe" height="45" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Mahd1exo/Mahd1exo/blob/main/Mehdi_Ebrahimzadeh_Resume.pdf">
-    <img src="https://img.shields.io/badge/DOWNLOAD_FULL_RESUME_(PDF)-24243e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=bd34fe&labelColor=0d1117" height="45" />
+    <img src="https://img.shields.io/badge/RESUME_(PDF)-24243e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=bd34fe&labelColor=0d1117" height="45" />
   </a>
 </div>
 
@@ -106,15 +114,15 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
   </table>
 </div>
 
-<br />
-
----
-
 ### 📫 Connect Protocol
 
 <div align="center">
   <p>Available for <b>Deep Tech</b> collaborations, <b>Distributed Systems</b> architecture, and <b>Security</b> consultations.</p>
 
+  <a href="https://mahd1exo.github.io">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00F2FF?style=for-the-badge&logo=google-chrome&logoColor=0d1117" height="40" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:Mehdi.ebr.work@gmail.com">
     <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
@@ -126,6 +134,11 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
   <a href="https://github.com/Mahd1exo">
     <img src="https://img.shields.io/badge/Follow_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" />
   </a>
+  
+  <br /><br />
+  <p><i>📍 Currently based in <b>Waterloo, Ontario</b></i></p>
+  <p>💼 <b><a href="https://mahd1exo.github.io" style="color: #00F2FF; text-decoration: none;">View my complete portfolio →</a></b></p>
+</div>
   
   <br /><br />
   <p><i>📍 Currently based in <b>Waterloo, Ontario</b></i></p>
