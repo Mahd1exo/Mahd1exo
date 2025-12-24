@@ -73,13 +73,14 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
 ### 📊 Live Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahd1exo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="180" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=Mahd1exo&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahd1exo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Languages" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mahd1exo/Mahd1exo/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
+
 
 ---
 
@@ -138,10 +139,6 @@ I am a **Systems Architect** and **Co-Founder** obsessed with efficiency. I spec
   <br /><br />
   <p><i>📍 Currently based in <b>Waterloo, Ontario</b></i></p>
   <p>💼 <b><a href="https://mahd1exo.github.io" style="color: #00F2FF; text-decoration: none;">View my complete portfolio →</a></b></p>
-</div>
-  
-  <br /><br />
-  <p><i>📍 Currently based in <b>Waterloo, Ontario</b></i></p>
 </div>
 
 <div align="center">
